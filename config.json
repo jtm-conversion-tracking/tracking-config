@@ -1,0 +1,14 @@
+{
+  "tracking_version": "1.0",
+  "accounts": {
+    "hx7y9p": {
+      "active": true,
+      "tracking_key": "k_7h8j2p9",
+      "conversion_settings": {
+        "primary_value": 1,
+        "secondary_value": 0.5,
+        "lookback_days": 90
+      }
+    }
+  }
+}
